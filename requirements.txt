@@ -42,4 +42,4 @@ datasets
 tiktoken
 PyPDF2
 gradio 
-altair.vegalite.v4
+altair
